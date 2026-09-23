@@ -86,12 +86,6 @@ streamlit run app.py
 
 ---
 
-##  Author
-
-- **M. Sabtain Khan**
-- GitHub: [@Sabtain-Dev](https://github.com/Sabtain-Dev)
-
----
 
 ##  License
 
