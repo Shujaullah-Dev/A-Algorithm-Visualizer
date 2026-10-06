@@ -34,7 +34,7 @@ An interactive A* pathfinding visualizer built with Streamlit and Pillow. This p
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/a-star-streamlit.git
+git clone https://github.com/yourusername/A-Algorithm-Visualizer.git
 cd a-star-streamlit
 ```
 
